@@ -2955,4 +2955,4 @@ Query OK, 1 row affected (0.04 sec)
 mysql> INSERT INTO Track (Name, AlbumId, MediaTypeId, GenreId, Composer, Milliseconds, Bytes, UnitPrice)
     -> VALUES ("Another Time, Another Place", 348, 2, 1, "U2", 240000, 1234, 0.99), ("The Electric Co.", 348, 2, 1, "U2", 240000, 1234, 0.99), ("Shadows and Tall Trees", 348, 2, 1, "U2", 300000, 1234, 0.99);
 Query OK, 3 rows affected (0.04 sec)
-Records: 3  Duplicates: 0  Warnings: 0
+Records: 3  Duplicates: 0  Warnings: 0mysql> notee
